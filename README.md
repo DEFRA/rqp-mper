@@ -1,3 +1,7 @@
+![GitHub release (with filter)](https://img.shields.io/github/v/release/DEFRA/RQP-MPER)
+![GitHub License](https://img.shields.io/github/license/DEFRA/RQP-MPER)
+![GitHub top language](https://img.shields.io/github/languages/top/DEFRA/RQP-MPER)
+
 # RQP-MPER
 
 The official repository of the Environment Agency’s River Quality Planning (RQP) and Metals Permitting (MPER) software tools. 
