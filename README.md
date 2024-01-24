@@ -22,7 +22,7 @@ To read the manual, go to [Documentation](/docs)
 
 RQP-MPER is distributed as a standalone executable application. The recommended usage is to download the latest release and unzip the folder with all the dependencies in your hard drive. To use RQP-MPER, double click the executable file to launch the user interface.
 
-For detailed installation instructions visit the [Documentation](/docs) or click [here](https://github.com/DEFRA/rqp-mper/raw/main/docs/InstallingRQP.docx).
+For detailed installation instructions visit the [Documentation](/docs) or click [here](https://github.com/DEFRA/rqp-mper/blob/main/docs/Installing_RQP.docx).
 
 ## Contributing
 
